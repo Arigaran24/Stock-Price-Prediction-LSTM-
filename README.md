@@ -1,8 +1,8 @@
 # 📈 RISE Internship – Stock Price Prediction using LSTM
 
 ## 📌 Project Overview
-This project is part of the **RISE Internship – Machine Learning & AI Project List **.  
-The objective is to predict stock prices using **LSTM (Long Short-Term Memory)** neural networks based on historical stock market data.
+This project is part of the RISE Internship – Machine Learning & AI Project List.  
+The objective is to predict stock prices using LSTM (Long Short-Term Memory) neural networks based on historical stock market data.
 
 ---
 
